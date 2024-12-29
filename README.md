@@ -22,7 +22,7 @@ This setup will go through creating a RabbitMQ queue on the cluster and deployin
 First you should clone the project:
 
 ```
-git clone https://github.com/satyazzz123/KEDA-rabbitmq-microservices.git
+git clone https://github.com/jignyasamishra/KEDA-Rabbitmq-Microservices.git
 
 ```
 
